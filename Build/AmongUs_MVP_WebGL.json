@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Among Us",
+"productVersion": "0.1",
+"dataUrl": "AmongUs_MVP_WebGL.data.unityweb",
+"wasmCodeUrl": "AmongUs_MVP_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "AmongUs_MVP_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
